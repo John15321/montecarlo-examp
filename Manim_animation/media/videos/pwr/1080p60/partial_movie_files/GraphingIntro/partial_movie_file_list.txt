@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/2724823860_2029124350_1431419167.mp4'
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/1164547788_641011677_225129467.mp4'
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/1164547788_3542146299_80726866.mp4'
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/1164547788_641011677_3689662755.mp4'
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/1164547788_2515549652_4209126427.mp4'
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/1164547788_2616206810_538213263.mp4'
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/1164547788_641011677_1306417974.mp4'
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/1164547788_2990347926_3101393.mp4'
+file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/GraphingIntro/1164547788_641011677_2133171439.mp4'
