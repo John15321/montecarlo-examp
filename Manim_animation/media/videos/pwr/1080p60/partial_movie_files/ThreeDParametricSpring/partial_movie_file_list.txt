@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Denis Firat/Documents/GitHub/montecarlo-examp/Manim_animation/media/videos/pwr/1080p60/partial_movie_files/ThreeDParametricSpring/3177882748_3503346753_2550198180.mp4'
